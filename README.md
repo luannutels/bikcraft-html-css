@@ -1,6 +1,4 @@
 # bikcraft-html-css
-
-<li>Exercício de posicionamento.</li>
 <li><a href="https://bikcraft-html-css.netlify.app/">Clique aqui para ver o projeto.</a></li>
 
 
